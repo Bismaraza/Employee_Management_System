@@ -33,25 +33,4 @@ This project was created as a **Week 3 Day 5 Capstone Project** to combine React
 - Local Storage
 
 
-## Project Structure
-src/
-│
-├── components/
-│   ├── EmployeeCard.jsx
-│   ├── EmployeeForm.jsx
-│   ├── SearchFilter.jsx
-│   └── Stats.jsx
-│
-├── data/
-│   └── initialEmployees.js
-│
-├── hooks/
-│   └── useLocalStorage.js
-│
-├── pages/
-│   └── EmployeeManagement.jsx
-│
-├── App.jsx
-├── main.jsx
-└── index.css
 
